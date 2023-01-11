@@ -15,6 +15,9 @@ I was mainly responsible for researching and designing the model. Our detailed r
 Jupyter Notebook demo: https://github.com/tuantruong5770/text-summarization/blob/311e4ca09dbfcff711f4b76e943c3647caf615b2/demonstrate.ipynb <br/>
 
 ## Terrain Generation
+Github link: https://github.com/dienn1/UCSC-Portfolio/tree/main/Terrain%20Generation <br/>
+The Demo is in the Build folder. A new terrain is generated every time the build is run. <br/>
+Everything is made by myself except for the smoke texture.
 <img src="Terrain Generation/screenshot1.png">
 <img src="Terrain Generation/screenshot2.png">
 
