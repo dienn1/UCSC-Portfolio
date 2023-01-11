@@ -10,5 +10,6 @@ Screenshots <br/>
 
 ## Extractive Text Summarization
 Github link: https://github.com/tuantruong5770/text-summarization <br/>
-I worked with 2 other teammates to build and design a hierarchical neural network for extractive text summarization based on this paper: [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://arxiv.org/pdf/1805.11080.pdf) <br/>
+I worked with 2 other teammates to build and design a hierarchical neural network for extractive text summarization based on this paper: [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting by Chen et.al.](https://arxiv.org/pdf/1805.11080.pdf) <br/>
+I was mainly responsible for researching and designing the model. Our detailed report of the project can be found [here](Extractive Summarization/TEAMNAME_final_report_2022.pdf)
 
