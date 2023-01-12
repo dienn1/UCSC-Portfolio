@@ -16,6 +16,7 @@ Jupyter Notebook demo: https://github.com/tuantruong5770/text-summarization/blob
 
 ## Terrain Generation
 Github link: https://github.com/dienn1/UCSC-Portfolio/tree/main/Terrain%20Generation <br/>
+Generate Terrain based on Perlin Noise. Terrain coloring based on heights. Water is made using shaders and Voronoi Noise.
 The Demo is in the Build folder. A new terrain is generated every time the build is run. <br/>
 Everything is made by myself except for the smoke texture.
 <img src="Terrain Generation/screenshot1.png">
